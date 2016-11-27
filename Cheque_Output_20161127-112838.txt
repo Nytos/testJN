@@ -4,28 +4,6 @@ Subform:Bank~20
 Subform:Mutav~997
 Subform:Branch~20403
 Number~941452179
-Shuma~ירושלים 1
+Shuma~ֳ©ֳ¸ֳ¥ֳ¹ֳ¬ֳ©ֳ­ 1
 Date~27/11/2016
-Supplier~מוסלימוב פריט
-Address~וולפסון 45
-City~ראשון לציון
-Account_Get~420017190
-Zip_Code~0000000
-ID_Get~319482048
-Check_num~10103117
-Total_amount~10787.40
-Cheque_Amount~10356.01*******
-Tax_Precent~4
-Tax~431.39
-Net_Amount~10356.01
-Pay_To~מוסלימוב פריט
-Total_Amount_Words_1~+ עשרה אלף שלוש מאות חמישים ושישה ש"ח
-Total_Amount_Words_2~ אג 01
-Pat_Date~27/11/2016
-Itrot_M~
-Magnetic_Line~A10103117 C20A40300E 615391C
-TABLESTART:ChsData
-8090.55 ~1900000048~אוקטובר # משלוחים 0292~03/11/2016~3450292
-2696.85 ~1900000049~נובמבר - משלוחים 0293~10/11/2016~3450293
-TABLEEND
-{AF-MERGER-END}
+
